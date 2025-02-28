@@ -1,0 +1,6 @@
+[submodule "learncpp"]
+	path = learncpp
+	url = ./learncpp/
+[submodule "learntriton"]
+	path = learntriton
+	url = ./learntriton
