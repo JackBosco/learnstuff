@@ -4,3 +4,4 @@
 [submodule "learntriton"]
 	path = learntriton
 	url = git@github.com:JackBosco/learntriton.git
+	branch = main
