@@ -1,6 +1,6 @@
 [submodule "learncpp"]
 	path = learncpp
-	url = https://github.com/JackBosco/learncpp
+    url = https://github.com/JackBosco/learncpp
 [submodule "learntriton"]
 	path = learntriton
 	url = https://github.com/JackBosco/learntriton
