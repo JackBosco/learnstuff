@@ -1,6 +1,7 @@
 [submodule "learncpp"]
 	path = learncpp
-    url = https://github.com/JackBosco/learncpp
+	url = git@github.com:JackBosco/learncpp.git
+	branch = main
 [submodule "learntriton"]
 	path = learntriton
 	url = git@github.com:JackBosco/learntriton.git
