@@ -3,4 +3,4 @@
     url = https://github.com/JackBosco/learncpp
 [submodule "learntriton"]
 	path = learntriton
-    url = https://github.com/JackBosco/learntriton.git
+	url = git@github.com:JackBosco/learntriton.git
